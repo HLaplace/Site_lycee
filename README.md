@@ -7,3 +7,5 @@ Les code sont ici fait en HTML, CSS, PHP, J'ai pour ma part gérer toute la part
 Ce projet a été poussé bien plus que demander notammet procédure de mot de passe oublier et de crypatge de mot de passe.
 
 Il necessite pour fonctionner le logiciel wmap server(windows).
+
+Fichier principale : index.php.
